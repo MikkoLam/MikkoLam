@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikkoLam from Tampere, Finland.
 - 👀 I’m interested in singing and playing live music, guitar, piano, bass drums and harmonica. Also excercising that's also fun. Like skiing, wakeboarding, windsurfing.
 - 🌱 I’m currently learning python language, also interested in learning android programming.
-- 💞️ I’m looking to collaborate on anyone who has crazy ideas.
+- 💞️ I’m looking to collaborate on anyone who has crazy ideas. =D
 - 📫 mikkolampinen@hotmail.com
 
 <!---
